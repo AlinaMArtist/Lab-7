@@ -1,2 +1,2 @@
-# Lab-7
-Assignment for Computer as a Medium
+# JSPlatformer
+JS Platformer for DIG 3480C
